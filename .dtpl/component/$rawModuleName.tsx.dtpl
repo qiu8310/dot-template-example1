@@ -1,0 +1,6 @@
+import {test} from './index'
+
+console.log(test)
+
+// template `ref` means the environment object of the folder you created
+// this message from localData: ${ref.welcome}
