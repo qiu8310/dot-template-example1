@@ -3,12 +3,11 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "author": "Mora <qiuzhongleiabc@126.com> (https://github.com/qiu8310)",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^9.4.7",
     "dot-template-types": "0.0.4",
     "ts-node": "^5.0.1",
     "typescript": "^2.7.2"
